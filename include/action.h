@@ -17,7 +17,7 @@ public:
 
 class Description : public Action {
 public:
-    Description(char *nume);
+    Description(char *name);
     void executeAction();
 };
 

@@ -13,7 +13,7 @@ private:
 protected:
     MenuItem(char *name);
     virtual ~MenuItem();
-    /** Print item title alongside its parents */
+    /** print item title alongside its parents */
     void printTitle();
 
 public:
